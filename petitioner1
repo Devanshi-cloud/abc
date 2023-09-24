@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="petitioner1.css">
+    <title>Judiciary Login</title>
+</head>
+<body>
+<div class="wrapper">
+    <div class="container">
+    <div class="col-left">
+        <div class="login-text">
+        <h2>Petitioner Login</h2>
+        <p>
+            
+        </p>
+        <a class="btn" href="">Read More</a>
+        </div>
+        <form action="login.php" method="POST"></form>
+    </div>
+    <div class="col-right">
+        <div class="login-form">
+        <h2>Login</h2>
+        <form>
+            <p>
+            <input type="text" placeholder="Username" required>
+            </p>
+            <p>
+            <input type="password" placeholder="Password" required>
+            </p>
+            <p>
+                <button type="submit"><a href="https://indiankanoon.org/doc/45969130/">Login</a></button>
+            </p>
+            <p>
+            <a href="#">Forgot password?</a>
+            <a href="https://indiankanoon.org/doc/45969130/">Create an account.</a>
+            </p>
+        </form>
+        </div>
+    </div>
+    </div>
+</div>
+</body>
+</html>
